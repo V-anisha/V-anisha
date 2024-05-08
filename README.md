@@ -4,28 +4,28 @@
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG9vdTlhbW9pMzJuMDdjbnhzY3N3Ynl6Nzk4ZDhpdmc4b24zYmtkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gFK6scW91lwIA6vRXD/giphy.gif" width="50"> Skills stack: 
 
-<img align="right" alt="Coding" width="280" src="https://cdn.dribbble.com/users/2225963/screenshots/6098603/media/2e3e5642d3fcfe7706e8e75e96c6bf85.gif">
+<img align="right" alt="Coding" width="280" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmR6YThhNnM1OGFyMzFidGxpNWM4ZzUwY2V6dzVscWh6NmZ4azdhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IUNycHoVqvLDowiiam/giphy.gif">
 
  **Technical Skills**
  
-● Java, Python, C++, C
-● HTML5-CSS3, JS
-● OpenCV, Tesseract, Matplotlib, BeautifulSoup
-● MySQL, PHP
-● Power BI, Microsoft Excel
-● DSA
+● Java, Python, C++, C <br>
+● HTML5-CSS3, JS <br>
+● OpenCV, Tesseract, Matplotlib, BeautifulSoup <br>
+● MySQL, PHP <br>
+● Power BI, Microsoft Excel <br>
+● DSA <br>
 
 **Behavioural Skills**
 
-● Time Management
-● Attention to Detail
-● Leadership and Collaboration\Team player
-● Problem-Solving
-● Communication and Presentation Skills
-● Continuous Improvement
+● Time Management <br>
+● Attention to Detail <br>
+● Leadership and Collaboration\Team player <br>
+● Problem-Solving <br>
+● Communication and Presentation Skills <br>
+● Continuous Improvement <br>
 
 
-<img src="https://www.puttiapps.com/wp-content/uploads/2021/05/stats.gif" width="60"> Some Stats:
+<img src="https://www.puttiapps.com/wp-content/uploads/2021/05/stats.gif" width="70"> Some Stats:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=V-anisha&theme=rose)](https://git.io/streak-stats)
 
